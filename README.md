@@ -20,6 +20,16 @@ To enhance **data accuracy and insights**, we integrate **Google Gemini**, an AI
 
 ---
 
+## 📷 Demo
+
+Click the image below to watch the demo:
+
+[![Watch Demo](screenshots/demo-thumbnail.png)](screenshots/Screen-Recording.mp4)
+
+Or download the video [here](screenshots/Screen-Recording.mp4).
+
+---
+
 ## 🏗 How It Works
 
 ### 1️⃣ **OCR (Optical Character Recognition) with Tesseract**
@@ -95,12 +105,6 @@ The app will be available at **http://localhost:5000**
 | File Upload                               | Extracted Data                                      | File Preview                                    |
 | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
 | ![Upload](screenshots/prescription-1.png) | ![Extracted Data](screenshots/data-extracted-1.png) | ![Full Preview](screenshots/file-preview-1.png) |
-
----
-
-## UI Demo
-
-![Upload](screenshots/Screen-Recording.mp4)
 
 ---
 
