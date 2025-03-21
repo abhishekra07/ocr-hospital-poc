@@ -74,7 +74,7 @@ npm install
 npm start
 ```
 
-The app will be available at **http://localhost:3000**
+The app will be available at **http://localhost:5000**
 
 ---
 
@@ -95,6 +95,12 @@ The app will be available at **http://localhost:3000**
 | File Upload                               | Extracted Data                                      | File Preview                                    |
 | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
 | ![Upload](screenshots/prescription-1.png) | ![Extracted Data](screenshots/data-extracted-1.png) | ![Full Preview](screenshots/file-preview-1.png) |
+
+---
+
+## UI Demo
+
+![Upload](screenshots/Screen-Recording.mp4)
 
 ---
 
