@@ -58,9 +58,9 @@ The app will be available at **http://localhost:5000**
 
 ## 📷 UI Screenshots
 
-| File Upload                       | Extracted Data                               | File Preview                             |
-| --------------------------------- | -------------------------------------------- | ---------------------------------------- |
-| ![Upload](screenshots/upload.png) | ![Extracted Data](screenshots/extracted.png) | ![Full Preview](screenshots/preview.png) |
+| File Upload                               | Extracted Data                                      | File Preview                                    |
+| ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
+| ![Upload](screenshots/prescription-1.png) | ![Extracted Data](screenshots/data-extracted-1.png) | ![Full Preview](screenshots/file-preview-1.png) |
 
 ---
 
