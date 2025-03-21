@@ -26,6 +26,8 @@ Click the image below to watch the demo:
 
 [![Watch Demo](screenshots/demo-thumbnail.png)](screenshots/Screen-Recording.mp4)
 
+![Preview](https://github.com/abhishekra07/ocr-hospital-poc/blob/main/Screen-Recording.mp4)
+
 Or download the video [here](screenshots/Screen-Recording.mp4).
 
 ---
