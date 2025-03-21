@@ -24,9 +24,9 @@ To enhance **data accuracy and insights**, we integrate **Google Gemini**, an AI
 
 Click the image below to watch the demo:
 
-![Preview](https://github.com/abhishekra07/ocr-hospital-poc/blob/main/Screen-Recording.gif)
+![Preview](https://github.com/abhishekra07/ocr-hospital-poc/blob/master/Screen-Recording.gif)
 
-Or download the video [here](https://github.com/abhishekra07/ocr-hospital-poc/blob/main/Screen-Recording.gif).
+Or download the video [here](https://github.com/abhishekra07/ocr-hospital-poc/blob/master/Screen-Recording.gif).
 
 ---
 
